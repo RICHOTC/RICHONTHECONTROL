@@ -29,11 +29,13 @@ El proyecto incluye los siguientes archivos:
 ## 📩 Contacto
 Si deseas beats personalizados o colaboraciones, puedes contactar directamente a través de:
 - Instagram: [@richonthecontrol](https://instagram.com/richonthecontrol)
-- Email: richonthecontrol@example.com
+- Facebook: [@richonthecontrol](https://www.facebook.com/richonthecontrol)
+- Tiktok: [@richonthecontrol](https://www.tiktok.com/@richonthecontrol)
+- Email: richonthecontrol@gmail.com
 
 ## ⚠️ Licencia
 Todos los derechos reservados © 2025 Rich On The Control. Prohibida la reproducción sin autorización.
 
 ---
 
-**Creado con amor por Rich On The Control y el apoyo de IA.**
+**Creado por Rich On The Control**
