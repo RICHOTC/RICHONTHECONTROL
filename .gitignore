@@ -1,0 +1,27 @@
+# Archivos de sistema de macOS
+.DS_Store
+
+# Archivos de caché y backups
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Archivos de editores de texto y proyectos locales
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Archivos comprimidos
+*.zip
+*.rar
+*.7z
+
+# Carpeta de caché (si llegas a trabajar con Node.js o algún generador de sitio)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Archivos ocultos de control de versiones (si usas FTP, por ejemplo)
+*.ftpquota
